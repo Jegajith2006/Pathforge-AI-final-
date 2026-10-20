@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PathForge AI
 
 > **Machine Learning-Based Personalized Learning Roadmap and Career Skill Intelligence System**
@@ -212,3 +213,6 @@ $$\text{Readiness} = (0.50 \times \text{Skill Match}) + (0.30 \times \text{Skill
 - **Machine Learning**: Scikit-learn (TF-IDF, Cosine Similarity), NumPy, Pandas
 - **Security**: Passlib / Bcrypt password hashing, RFC 7519 HMAC-SHA256 JWT tokens
 - **Testing**: Pytest, HTTPX TestClient
+=======
+# Pathforge-AI-final-
+>>>>>>> 082c92c4b7f9837fb47ee2e22ef5e291c1494813
